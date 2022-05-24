@@ -1,10 +1,10 @@
 body {
-    background: rgb(94, 40, 94);
+    background: rgb(116, 185, 218);
 }
 
 
 h1 {
-    color: green;
+    color: rgb(46, 55, 187);
 }
 
 h3 {
@@ -17,6 +17,6 @@ h3 {
 }
 
 .green-text:hover{
-    color: red;
+    color: rgb(170, 55, 55);
 }
 
